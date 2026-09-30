@@ -23,3 +23,6 @@ I created a responsive navigation bar using Bootstrap components and made it col
 
 ### Task 4. Responsive Portfolio Page
 I created a portfolio page using both Media Queries and Bootstrap Grid.
+
+## Summary
+I built a responsive webpage using CSS media queries and the Bootstrap grid system. Media queries handle font sizes and box layouts across mobile, tablet, and desktop. Bootstrap handles the navigation bar, grid columns, and portfolio layout.
